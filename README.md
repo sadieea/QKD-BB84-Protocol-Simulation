@@ -17,12 +17,5 @@ pip install qiskit
 
 Run the simulation: Use the provided Jupyter notebook to run the protocol steps and visualize results.
 
-Project Structure
-
-BB84-QKD-Simulation
-├── bb84_simulation.ipynb  # Jupyter notebook with protocol simulation
-├── README.md              # Project overview
-└── requirements.txt       # List of dependencies
-
 License
 This project is licensed under the MIT License.
